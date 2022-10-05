@@ -354,6 +354,7 @@ footer {
 .footer__logo--img {
   width: 70px;
   height: 70px;
+  filter: invert(95%);
 }
 .footer__social--link,
 .footer__logo--popper {
